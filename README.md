@@ -1,6 +1,7 @@
 # 💫 About Me:
 👋 Hi, I'm Farid<br><br>💻 Interested in Information Security, Web & Frontend Development  <br>🧠 I like understanding how systems work (and how they break)  <br>⚡ Mostly working with HTML, CSS, JavaScript & Python  <br>🚀 Learning, building, breaking, fixing — repeat  <br><br>📍 Based in Baku, Azerbaijan  <br>🛠  Always improving, always curious<br>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=faridhumbatov&label=Profile%20views&color=0e75b6&style=flat" alt="faridhumbatov" /> </p>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/4zsr5pa5) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/thefeerid/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/faridhumbatov) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/fridhumbtov00101/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27975785) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fridhumbtov@gmail.com) 
